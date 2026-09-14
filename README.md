@@ -35,8 +35,6 @@ This project is built using **React + Vite**, providing a fast and modern develo
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
 | Technology        | Purpose                  |
 | ----------------- | ------------------------ |
 | ⚛️ **React**      | Frontend UI              |
@@ -46,8 +44,6 @@ This project is built using **React + Vite**, providing a fast and modern develo
 | 🔍 **ESLint**     | Code Quality             |
 | 📦 **npm**        | Package Management       |
 
-</div>
-
 ---
 
 ## 📂 Project Structure
@@ -56,7 +52,6 @@ This project is built using **React + Vite**, providing a fast and modern develo
 project/
 │
 ├── public/
-│
 ├── src/
 │   ├── assets/
 │   ├── components/
@@ -101,8 +96,6 @@ npm install
 npm run dev
 ```
 
-Open the local URL shown in your terminal.
-
 ---
 
 ## 📜 Available Commands
@@ -121,23 +114,17 @@ Open the local URL shown in your terminal.
 
 This project supports React Fast Refresh through Vite.
 
-Two official React plugins are available:
-
 ### Babel
 
 ```bash
 @vitejs/plugin-react
 ```
 
-Uses Babel for Fast Refresh.
-
 ### SWC
 
 ```bash
 @vitejs/plugin-react-swc
 ```
-
-Uses SWC for faster compilation.
 
 ---
 
@@ -148,18 +135,6 @@ The React Compiler is **not enabled by default** in this template because it can
 Learn more:
 
 👉 https://react.dev/learn/react-compiler/installation
-
----
-
-## 📸 Screenshots
-
-<div align="center">
-
-### 🖥️ Desktop
-
-<img src="https://placehold.co/900x500/111827/FFFFFF?text=Add+Your+Screenshot+Here" width="85%" alt="Project Screenshot">
-
-</div>
 
 ---
 
@@ -189,14 +164,8 @@ Learn more:
 Contributions are welcome!
 
 ```bash
-# Fork the repository
-# Create your feature branch
 git checkout -b feature/AmazingFeature
-
-# Commit your changes
 git commit -m "Add AmazingFeature"
-
-# Push to GitHub
 git push origin feature/AmazingFeature
 ```
 
